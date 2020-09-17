@@ -1,5 +1,5 @@
 {
-  "name": "moment3",
+  "name": "moment2",
   "version": "1.0.0",
   "description": "Moment 3 by nipa1902 for course DT173G",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [
     "nipa1902",
-    "moment3"
+    "moment2"
   ],
   "author": "Nils Paulsson (nipa1902)",
   "license": "MIT",
